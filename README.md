@@ -58,7 +58,7 @@ You need Python 3.6 or above.
 
 ### Step 2 — Clone or download this repository
 ```
-git clone https://github.com/{your-username}/student-management-system
+git clone https://github.com/naina-jhabak/STUDENT-MANAGEMENT-SYSTEM
 cd student-management-system
 ```
 
@@ -100,7 +100,7 @@ All student records are stored in `students_data.py` as a Python list:
 
 ```python
 students = [
-    {'id': 1001, 'name': 'Ravi Kumar', 'grades': {'Math': 88, 'Python': 76}},
+    {'id': 1001, 'name': 'naina jhabak', 'grades': {'Mathemathics':100, 'Programming': 100,'chemistry':100}},
     {'id': 1002, 'name': 'Priya Sharma', 'grades': {'Math': 92}},
 ]
 ```
